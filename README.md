@@ -1,6 +1,6 @@
 # **TP n°1 Linux - Service réseaux: Installation d'une GLPI**
 
-<div style="text-align: right"> Matteo Grellier </div>
+Matteo Grellier
 
 ----------------
 
@@ -52,7 +52,7 @@ Dans ce cours on va voir comment installer un outil permettant de gérer un parc
   - Difficultées
 
 ----------
-# **Source**
+# **Sources**
 
 J'ai utiliser c'est différentes sources pour m'aider à la réalisation de ce tp :
 

@@ -1,8 +1,8 @@
-# **TP n°1 Linux - Service réseaux: Installation d'une GLPI**
+# **TP n°1 Linux - Service réseaux: Installation d'une GLPI**  
 
-Matteo Grellier
+Matteo Grellier  
 
-----------------
+----------------  
 
 # Mise en Place d'un gestionnaire de parc informatique (GLPI)
 

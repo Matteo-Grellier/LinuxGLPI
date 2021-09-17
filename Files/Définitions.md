@@ -38,4 +38,4 @@ C'est un programme qui permet d'éxécuter automatiquement des scripts.
 
 C'est un serveur DNS qui permet d'attribuer un DNS pour une machine, ici la Debian n'ayant plus Internet on lui attribue un DNS fonctionnelle pour lui permettre d'accéder à Internet.
 
-[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) --- Page 1 --- [Conclusion --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/SSH.md#ssh)
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) --- Page 1 --- [Outil optionnelle --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/SSH.md#ssh)

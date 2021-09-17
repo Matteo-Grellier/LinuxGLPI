@@ -29,4 +29,4 @@ Pour l'utiliser comme serveur DNS, vous devez modifier le fichier ``/etc/resolv.
 
 Redémarrez votre vm et vous devriez avoir internet même en Bridge  
 
-[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) ---Page 3--- [Conclusion --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/InstallPackages.md#installation-des-packages)
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) ---Page 3--- [Paquets Nécéssaires --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/InstallPackages.md#installation-des-packages)

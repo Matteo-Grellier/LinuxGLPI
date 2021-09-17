@@ -1,6 +1,6 @@
 # Mise en place d'une sauvegarde automatique
 
-Pour pouvoir sauvegarder la base de donnée et le GLPI automatiquement il faut tout d'abord créer un fichier .sh avec la commande :  
+Pour pouvoir sauvegarder la base de donnée et le GLPI automatiquement, il faut tout d'abord créer un fichier .sh avec la commande :  
 `touch script.sh`
 
 et y écrire le script suivant : 

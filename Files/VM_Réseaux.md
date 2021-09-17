@@ -14,7 +14,7 @@ Dans cette partie il va falloir configurer un réseau privé pour simuler un ré
 
 - Il faut tout d'abord modifier l'accès au réseau n'ont pas par NAT.
 ![NAT](../screens/NAT.png)
-mais par Bridge
+mais par Bridge  
 ![Bridge](../screens/Bridge.png)
 
 Cela va avoir pour effet de couper Internet sur nos vm.

@@ -20,10 +20,10 @@ Ensuite on change le nom du fichier pour que le GLPI puisse le voir
 ``mv fusioninventory-for-glpi-glpi9.3-1.3/ fusioninventory/``  
 
 On peut donc retourner sur l'interface Web et aller dans l'onglet Plugins  
-![plugins](screens/FusionInventory/Plugins.png)  
+![plugins](../screens/FusionInventory/Plugins.png)  
 
 Et installer et acitver le plugin FusionInventory  
-![FI](screens/FusionInventory/InstallationFI.png)  
+![FI](../screens/FusionInventory/InstallationFI.png)  
 
 Le plugin est à présent installer !!!  
 
@@ -36,16 +36,16 @@ Il faut tout d'abord aller sur votre machine cliente qui doit être connecter au
 Cliquer sur ce [lien](http://fusioninventory.org/documentation/agent/installation) pour télécharger FusionInventoryAgent.
 
 Choississez bien installation complete comme ci-dessous  
-![complete](screens/FusionInventory/Complète.png)
+![complete](../screens/FusionInventory/Complète.png)
 
 Continuer jusqu'à l'étape comme montré ci-dessous vous allez devoir marquer dans ``mode serveur`` l'addresse suivante `http://[IPSERVER]/GLPI/plugins/fusioninventory/`  
 Elle permet de choisir un serveur chez lequelle envoyer toute les données.  
-![AgentServer](screens/FusionInventory/SendResults.png)
+![AgentServer](../screens/FusionInventory/SendResults.png)
 
 - ## Test de l'installation de FusionInventory et GLPI
 
 sur votre vm client sur votre navigateur écrivez cette URL `http://localhost:62354` et une page comme ci-dessous devrait apparaître  
-![Agent](screens/FusionInventory/ClientTest.png)
+![Agent](../screens/FusionInventory/ClientTest.png)
 
 Cliquez sur `Force an Inventory`
 

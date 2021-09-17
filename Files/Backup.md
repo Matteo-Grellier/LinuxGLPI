@@ -32,7 +32,9 @@ et y écrire le script suivant :
         #archive des fichiers et de la bdd
         tar -cvzf $bkp_gen $bkp
 
-![scriptBackup](screens/Backup/Script.png)
+![scriptBackup](../screens/Backup/Script.png)
+
+:warning: veillez bien à changer ce qui est entourer en rouge par les informations que vous avez mis.
 
 Ensuite vous allez modifier le crontab pour que le script créer précédement puisse se lancer tout les x temps
 ``su -``

@@ -13,9 +13,9 @@ J'ai installé deux machines virtuelles à l'aide de VirtualBox :
 Dans cette partie il va falloir configurer un réseau privé pour simuler un réseau d'entreprise, c'est-à-dire un serveur et des clients.
 
 - Il faut tout d'abord modifier l'accès au réseau n'ont pas par NAT.
-![NAT](screens/NAT.png)
+![NAT](../screens/NAT.png)
 mais par Bridge
-![Bridge](screens/Bridge.png)
+![Bridge](../screens/Bridge.png)
 
 Cela va avoir pour effet de couper Internet sur nos vm.
 Pour avoir réactiver Internet en bridge sur la debian il suffit d'installer Bind9 et de le parametrer.

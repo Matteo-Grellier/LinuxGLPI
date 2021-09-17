@@ -45,8 +45,5 @@ et écrire cette ligne dedans
 ``0 0 * * 1-4 su root [SCRIPTPATH]/save.sh``
 
 Cette commande à pour effet de lancer le script à minuit le Lundi, Mardi, Mercredi, Jeudi et pas le vendredi, Samedi, Dimanche pour pouvoir faire des modifications le week-end si jamais il y a des problèmes.  
-<<<<<<< HEAD
 
-<--- [Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI#tp-n1-linux---service-r%C3%A9seaux---installation-dune-glpi)
-=======
->>>>>>> 10c7f8dad2cdf4faf565b6774d86960f8401edaa
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI#tp-n1-linux---service-r%C3%A9seaux---installation-dune-glpi)

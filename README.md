@@ -43,7 +43,7 @@ Dans ce cours on va voir comment installer un outil permettant de gérer un parc
 
   - [Installation de FusionInvetory **Agent**](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/FusionInventory.md#installation-de-fusioninventoryagent)
 
-- ## Mise en place d'une sauvegarde GLPI avec cron
+- ## [Mise en place d'une sauvegarde GLPI avec cron](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/Backup.md#mise-en-place-dune-sauvegarde-automatique)
 
 - ## [Conclusion](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/Conclusion.md#conclusion) :
 

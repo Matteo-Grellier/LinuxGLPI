@@ -50,3 +50,5 @@ sur votre vm client sur votre navigateur écrivez cette URL `http://localhost:62
 Cliquez sur `Force an Inventory`.
 
 Et voila, maintenant, sur votre GLPI, vous devriez voir dans l'onglet ``Administration > FusionInventory`` votre vm Client.
+
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) --- Page 6 --- [Sauvegarde automatique --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/Backup.md#mise-en-place-dune-sauvegarde-automatique)

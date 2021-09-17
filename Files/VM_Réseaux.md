@@ -28,3 +28,5 @@ Pour installer Bind9, il suffit d'utiliser cette commande :
 Pour l'utiliser comme serveur DNS, vous devez modifier le fichier ``/etc/resolv.conf`` et ajouter cette ligne ``nameserver 127.0.0.1``  
 
 Redémarrez votre vm et vous devriez avoir internet même en Bridge  
+
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) ---Page 3--- [Conclusion --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/InstallPackages.md#installation-des-packages)

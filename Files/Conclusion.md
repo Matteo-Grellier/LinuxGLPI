@@ -11,3 +11,5 @@ Pour les prochains tp je pense faire la documentation en même temps que le tp p
 - ## Difficultées  
 
 J'ai trouvé que le côté plus complexe du GLPI était de comprendre comment mettre Internet sur ma VM Debian du fait que je ne comprenais pas pourquoi j'avais au final réussi.
+
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) --- Page8 ---

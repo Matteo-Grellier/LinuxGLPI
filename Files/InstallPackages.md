@@ -39,3 +39,5 @@ Pour terminer l'installation des différents packages, on va redémarrer le serv
 
 ``/etc/init.d/apache2 restart``
 ``/etc/init.d/mysql restart``  
+
+[<--- Sommaire]([<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) Page 4 --- [GLPI --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/GLPI.md#installation-du-glpi)

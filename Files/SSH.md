@@ -19,3 +19,5 @@ Ici, je vais me connecter à ma vm Debian à partir mon pc Windows
 ![ssh](../screens/ssh.png)  
 
 Je suis à présent connecter à ma vm Debian depuis Windows.  
+
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) --- Page 2 --- [Conclusion --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/VM_R%C3%A9seaux.md#installation-des-vm)

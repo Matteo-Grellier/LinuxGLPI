@@ -37,3 +37,5 @@ L'installation du GLPI est à présent terminée et vous devez vous trouver sur 
 ![accueil](../screens/GLPI/Accueil.png)
 
 Ici, vous avez accès a diférents ongletss qui vous permettes de gérer vote parc informatique
+
+[<--- Sommaire](https://github.com/Matteo-Grellier/LinuxGLPI) Page 5 --- [Conclusion --->](https://github.com/Matteo-Grellier/LinuxGLPI/blob/main/Files/FusionInventory.md#installation-du-plugin-fusioninventory)

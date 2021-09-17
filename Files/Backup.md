@@ -1,4 +1,4 @@
-## Mise en place d'une sauvegarde automatique
+# Mise en place d'une sauvegarde automatique
 
 Pour pouvoir sauvegarder la base de donnée et le GLPI automatiquement il faut tout d'abord créer un fichier .sh avec la commande :  
 `touch script.sh`
@@ -32,16 +32,13 @@ et y écrire le script suivant :
         #archive des fichiers et de la bdd
         tar -cvzf $bkp_gen $bkp
 
-
-
-
 ![scriptBackup](screens/Backup/Script.png)
 
 Ensuite vous allez modifier le crontab pour que le script créer précédement puisse se lancer tout les x temps
 ``su -``
 ``sudo crontab -e``
 
-et écrire cette ligne dedans 
+et écrire cette ligne dedans  
 
 ``0 0 * * 1-4 su root [SCRIPTPATH]/save.sh``
 

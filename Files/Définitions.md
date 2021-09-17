@@ -27,8 +27,16 @@ Apache2 C'est un serveur http qui permettra d'héberger ``l'interface web GLPI``
 
 - ## GLPI
   
-GLPI ca veut dire ``Gestionnaire Libre de Parc Informatique``, c'est une application web qui permet d'aider les entreprises dans la gestion du matériel en créant un inventaire des ressources de l'entreprise.
+GLPI pour ``Gestionnaire Libre de Parc Informatique``, est une application web qui permet d'aider les entreprises dans la gestion du matériel en créant un inventaire des ressources de l'entreprise.
 
 - ## VM
 
+VM pour ``Virtual Machine`` , est l'illusion d'un système d'exploitation créer sur un émulateur, il permet d'émuler un appareil directement sur un autre, ici j'émule avec le logiciel VirtualBox un appareil Linux.
+
 - ## CRON
+
+C'est un programme qui permet d'éxécuter automatiquement des scripts
+
+- ## BIND9
+
+C'est un serveur DNS qui permet d'attribuer un DNS pour une machine, ici la Debian n'ayant plus internet on lui attribue un DNS fonctionnelle pour lui permettre d'accéder à Internet

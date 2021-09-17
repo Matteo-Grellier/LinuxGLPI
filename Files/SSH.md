@@ -1,19 +1,21 @@
 # SSH
 
-- ## Installation et création d'une clé SSH
+- ## Installation et création d'une clé SSH  
 
-Pour installer SSH il faut utiliser cette commande :  
-`apt-get install SSH`
+Pour installer SSH, il faut utiliser cette commande :  
 
-Ici je vais me connecter à ma vm Debian à partir mon pc Windows
+`apt-get install SSH`  
 
-- Tout d'abord Je récupère l'ip de ma Debian avec la commande `ip a`
-![IPv4](../screens/IPv4.png)
+Ici, je vais me connecter à ma vm Debian à partir mon pc Windows  
 
-- Ensuite sur Windows je rentre le commande ``ssh [UtilisateurDebian]@[IPV4]`` ici matteo@192.168.191.21
+- Tout d'abord je récupère l'ip de ma Debian avec la commande `ip a`  
 
-:warning: *pour toute la durée de la manipulation avec le ssh j'utilise le partage de connexion de mon téléphone car les réseaux privées peuvent bloquer le `port 22`, port utiliser par le protocole ssh* :warning:
+![IPv4](../screens/IPv4.png)  
 
-![ssh](../screens/ssh.png)
+- Ensuite, sur Windows, je rentre le commande ``ssh [UtilisateurDebian]@[IPV4]`` ici matteo@192.168.191.21  
 
-Je suis à présent connecter à ma vm Debian depuis Windows.
+:warning: pour toute la durée de la manipulation avec le ssh j'utilise le partage de connexion de mon téléphone, car les réseaux privés peuvent bloquer le `port 22`, port utiliser par le protocole ssh* :warning:  
+
+![ssh](../screens/ssh.png)  
+
+Je suis à présent connecter à ma vm Debian depuis Windows.  
